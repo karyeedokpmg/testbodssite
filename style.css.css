@@ -1,0 +1,29 @@
+body {
+    font-family: helvetica;
+}
+
+h1 {
+    color: navy;
+    text-align: center;
+    font-weight: bold;
+}
+
+.header {
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.explanation {
+    text-align: center;
+}
+
+.names {
+    text-align: left;
+}
+
+
+.button2 {
+    align: center;
+
+}
